@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string name="str_btnLabel">Activity A Button</string>
+    <string name="str_selectHint">Please select an option</string>
+</resources>
